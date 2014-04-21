@@ -1,5 +1,5 @@
 /*
- * alert.js - jQuery plugin for easy using Twitter Bootstrap Alerts
+ * jquery.alert.js - jQuery plugin for easy using Twitter Bootstrap Alerts
  * Author Oleg Taranov aka Kujbor
  * Copyright (C) 2013: CubeComp Development
  */
