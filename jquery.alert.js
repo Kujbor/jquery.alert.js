@@ -3,7 +3,7 @@
  * Author Oleg Taranov aka Kujbor
  * Copyright (C) 2013: CubeComp Development
  */
-define("jquery.alert", ["jquery", "bootstrap"], function() {
+define("jquery.alert", ["jquery"], function($) {
 
     "use strict";
 
